@@ -37,3 +37,5 @@ Cloud Radar1.2+ 安装前记得看更新日志
 只要有浏览器(不限设备 手机电脑 平板随意) 只要有网络(不限网络 手机4G 还是电脑宽带)
 
 打开浏览器输入网址即可享用雷达!
+![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/1.jpg)
+完美运行
