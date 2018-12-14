@@ -57,4 +57,4 @@ npm install -g forever
 forever start index.js sniff eth0 XX.XX.XX.XX | pino
 
 By:潘潘 <br></br>
-雷达交流群：719697246<br></br>![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/2.jpg)
+雷达交流群：719697246  （加群请写备注）<br></br>![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/2.jpg)
