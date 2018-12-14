@@ -38,6 +38,8 @@ Cloud Radar1.2+ 安装前记得看更新日志
 
 打开浏览器输入网址即可享用雷达!
 ![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/1.jpg)
+<br></br>
+![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/3.jpg)
 完美运行
 <br>======================================</br>
 yum install git
