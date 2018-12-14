@@ -39,3 +39,17 @@ Cloud Radar1.2+ 安装前记得看更新日志
 打开浏览器输入网址即可享用雷达!
 ![image](https://github.com/1030125713/PUBG-Cloud-Radar/blob/master/1.jpg)
 完美运行
+<br>======================================</br>
+yum install git
+
+git clone https://github.com/1030125713/PUBG-Cloud-Radar [更具服务器的带宽 来决定速度快慢]
+
+cd Cloud-Radar-Plus/
+
+npm i
+
+npm i -g pino
+
+npm install -g forever
+
+forever start index.js sniff eth0 XX.XX.XX.XX | pino
